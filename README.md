@@ -34,7 +34,7 @@ Mobile View
 ### Links
 
 - Solution URL: [GitHub](https://github.com/jsngzm/Results-summary-component)
-- Live Site URL: [Live site]()
+- Live Site URL: [Live site](https://jolly-kitsune-b38b7c.netlify.app)
 
 ## My process
 
